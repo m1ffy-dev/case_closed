@@ -20,7 +20,7 @@ Occupation: Baker
 Age: 25
 
 Description:
-Honey Halloway runs the local bakery, where she sells all kinds of apple based baked goods.
+Honey Carter runs the local bakery, where she sells all kinds of apple based baked goods.
 She's engaged to Jon Rodgers, a local officer.
 She started baking after her mom died in a car accident and is determined to make a warm space, 
 free day-old goods to those in need, and a friendly ear 
@@ -33,7 +33,7 @@ Occupation: Police Officer
 Age: 27
 
 Description:
-A local police officer engaged to Honey Halloway. 
+A local police officer engaged to Honey Carter. 
 He's a "returnee", was the towns prodigal football player and left for the city to join the police, and 
 became a SWAT officer, however after an injury he returned for a quieter, safer life. 
 friendly rivalry with the player/bambi
